@@ -4,8 +4,16 @@
 npm install
 ```
 
+then
+
 ```sh
 npm run build && npm run preview
+```
+
+-or-
+
+```sh
+npm run dev
 ```
 
 ## Good scenario (page frontmatter throwing)
